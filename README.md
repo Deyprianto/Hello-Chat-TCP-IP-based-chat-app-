@@ -40,7 +40,7 @@ It supports both:
 
 ### 📩 Private Messaging
 
-![Private Chat](./screenshots/private_chat.jpg)
+![Private Chat](./screenshots/private_chat.png)
 
 ---
 
