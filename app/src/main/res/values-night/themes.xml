@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Chatapp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#0D0F14</item>
+        <item name="android:statusBarColor">#0A0C11</item>
+        <item name="android:navigationBarColor">#0D0F14</item>
+    </style>
+</resources>
