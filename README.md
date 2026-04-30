@@ -36,7 +36,7 @@ It supports both:
 
 ### 💬 Group Chat
 
-![Group Chat](./screenshots/group_chat.jpg)
+![Group Chat](./screenshots/group_chat.jpeg)
 
 ### 📩 Private Messaging
 
